@@ -1,0 +1,100 @@
+.container {
+  display: flex;
+  /* justify-content: space-between; */
+  margin-left: 388px;
+  margin-right: 435px;
+  margin-top: 120px;
+  width:80%;
+  
+}
+
+.left {
+  background-color: rgba(14, 1, 56, 0.808);
+  color: white;
+  padding: 30px;
+  width: 180px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.course {
+  color:rgb(112, 111, 111);
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.js {
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.chapters {
+  margin-top: 20px;
+  color: rgb(141, 139, 138);
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.right {
+padding: 20px;
+background-color: white;
+width: 290px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+body {
+  background-color: rgb(87, 87, 228);
+}
+
+img {
+  width: 104px;
+  height: 10px;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.status {
+  font-size: 10px;
+  color: rgb(180, 174, 167);
+  margin-left: 40px;
+}
+
+.callback {
+  font-weight: bold;
+  font-size: 22px;
+  margin-bottom: 12px;
+}
+
+.btnf {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btn {
+  margin-top: 20px;
+  padding: 12px;
+  color: white;
+  background-color: rgba(14, 1, 56, 0.808);
+  border: none;
+  border-radius: 18px;
+  width: 120px;
+  box-shadow: 0 8px 6px -6px black;
+
+}
+
+.chapter4 {
+ color:rgb(112, 111, 111);
+ font-weight: bold;
+ font-size: 12px;
+}
+
+.arrow {
+  font-size: 10px;
+  padding-top: 12px;
+  height: 6px;
+  font-weight: bold;
+}
